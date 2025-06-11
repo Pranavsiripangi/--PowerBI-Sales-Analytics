@@ -5,5 +5,5 @@ The **Sales Performance Dashboard** built using **Power BI** provides a comprehe
 
 Spending patterns indicate that **Beauty** products have the highest **average order value**, suggesting premium pricing strategies or a tendency for high-value purchases. Quantity analysis reveals that items in **Electronics** and **Clothing** are commonly bought in sets of four, while **Beauty** products are frequently purchased in sets of three. Seasonal sales trends fluctuate throughout the year, with peak sales observed during holiday seasons and promotional events, reinforcing the importance of strategic discounting and marketing campaigns. The dashboard also highlights key performance indicators, including total revenue of **456K**, total sales volume reaching **500K**, and an **average purchase frequency of 2.3 times per customer**, reinforcing the strong financial standing of the business. These insights collectively provide a **strategic overview** of business performance, helping companies refine **product offerings, optimize customer engagement strategies, and enhance overall profitability** in a competitive marketplace.
 
-**OUTPUT
+**OUTPUT**
 
