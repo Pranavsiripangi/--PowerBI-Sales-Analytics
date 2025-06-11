@@ -1,5 +1,4 @@
 # -SALES PERFORMANCE DASHBOARD
-**NAME**: PRANAV SIRIPANGI
 
 The **Sales Performance Dashboard** built using **Power BI** provides a comprehensive analysis of key sales trends, customer behavior, and revenue distribution. Through interactive visualizations such as pie charts, bar graphs, and line charts, the dashboard presents a structured view of **product category performance, customer demographics, and purchasing patterns**, enabling businesses to make informed decisions. The revenue breakdown highlights a balanced contribution across categories, with **Electronics** accounting for **31.47%**, **Clothing** at **34.41%**, and **Beauty** at **34.12%**, reflecting diverse consumer preferences. Gender-based sales insights reveal that males contribute **51.06%** of total revenue, while females account for **48.94%**, demonstrating nearly equal engagement across customer groups. Purchasing trends show that males favor **Electronics** and **Clothing**, whereas females exhibit a higher preference for **Beauty** products.  
 
