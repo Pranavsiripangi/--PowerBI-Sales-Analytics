@@ -1,1 +1,2 @@
-# --PowerBI-Sales-Analytics
+# -PowerBI-Sales-Analytics
+**NAME**: PRANAV SIRIPANGI
